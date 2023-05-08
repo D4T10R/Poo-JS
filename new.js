@@ -37,4 +37,4 @@ const novoUser = Object.create(user)
 novoUser.init('Julaina', 'Jd2s.com')
 console.log(novoUser.exibirInfor())
 // console.log(novoUser.exibirInfor('TESTE'))
-// console.log(user.isPrototypeOf(novoUser))
+// console.log(user.isPrototypeOf(novoUser))npm
